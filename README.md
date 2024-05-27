@@ -8,14 +8,14 @@
 
 <!-- <h3 align="left">Coding Profiles:</h3>-->
 <p align="left">
-<!-- <a href="https://x.com/jash_0070" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jash_0070" height="30" width="40" /></a>
+<<a href="https://x.com/jash_0070" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jash_0070" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jash-ambaliya-a11651309/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jash" height="30" width="40" /></a> -->
-<!-- <a href="https://www.instagram.com/jash_070_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jash_070_" height="30" width="40" /></a> -->
-<!-- <a href="https://www.codechef.com/users/jashambaliya1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jashambaliya1" height="30" width="40" /></a>
+< <a href="https://www.instagram.com/jash_070_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jash_070_" height="30" width="40" /></a> -->
+< <a href="https://www.codechef.com/users/jashambaliya1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jashambaliya1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/jashambaliya1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jashambaliya1" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/Jash0070" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Jash0070" height="30" width="40" />Codeforces Profile</a>
-<!-- <a href="https://leetcode.com/u/jashambaliya1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashambaliya1" height="30" width="40" /></a> -->
-<!-- <a href="https://www.geeksforgeeks.org/user/jashambf9p4/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jashambf9p4" height="30" width="40" />GeekforGeeks</a> -->
+< <a href="https://leetcode.com/u/jashambaliya1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashambaliya1" height="30" width="40" /></a> -->
+< <a href="https://www.geeksforgeeks.org/user/jashambf9p4/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jashambf9p4" height="30" width="40" />GeekforGeeks</a> -->
 </p>
 
 ![Jash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJ0070&show_icons=true&theme=transparent)   [![GitHub Streak](https://streak-stats.demolab.com?user=AJ0070&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://github.com/AJ0070)
