@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AJ0070&label=Profile%20views&color=0e75b6&style=flat" alt="Jash" /> </p>
 
 
-#About Me:
-🔭 I’m currently working on improving my competitive coding skills<br>👯 I’m looking to collaborate on tech-blog<br>🤝 I’m looking for help with development<br>🌱 I’m currently learning Data Structures & Algorithm<br>💬 Ask me about Anything you wish to<br>
+# About Me:
+ I’m currently working on improving my competitive coding skills<br> I’m looking to collaborate on tech-blog<br> I’m looking for help with development<br> I’m currently learning Data Structures & Algorithm<br> Ask me about Anything you wish to<br>
 
 
 ## 🌐 Socials:
