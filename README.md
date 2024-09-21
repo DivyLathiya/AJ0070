@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AJ0070&label=Profile%20views&color=0e75b6&style=flat" alt="Jash" /> </p>
 
 
-# 💫 About Me:
+#About Me:
 🔭 I’m currently working on improving my competitive coding skills<br>👯 I’m looking to collaborate on tech-blog<br>🤝 I’m looking for help with development<br>🌱 I’m currently learning Data Structures & Algorithm<br>💬 Ask me about Anything you wish to<br>
 
 
@@ -16,8 +16,6 @@
 [![Jash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJ0070&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/AJ0070) [![GitHub Streak](https://streak-stats.demolab.com?user=AJ0070&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/AJ0070)<br/>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
