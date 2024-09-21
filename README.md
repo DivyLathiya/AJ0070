@@ -4,7 +4,11 @@
 
 
 # About Me:
- I’m currently working on improving my competitive coding skills<br> I’m looking to collaborate on tech-blog<br> I’m looking for help with development<br> I’m currently learning Data Structures & Algorithm<br> Ask me about Anything you wish to<br>
+- I’m currently working on improving my competitive coding skills
+- I’m looking to collaborate on tech-blog
+- I’m looking for help with development
+- I’m currently learning Data Structures & Algorithm
+- Ask me about Anything you wish to
 
 
 ## 🌐 Socials:
